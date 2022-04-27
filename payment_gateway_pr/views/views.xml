@@ -8,8 +8,8 @@
       <field name="arch" type="xml">
         <tree>
           <field name="name"/>
-          <field name="value"/>
-          <field name="value2"/>
+          <field name="package"/>
+          <field name="price"/>
         </tree>
       </field>
     </record>
@@ -18,7 +18,7 @@
     <!-- actions opening views on models -->
 
     <record model="ir.actions.act_window" id="payment_gateway_pr.action_window">
-      <field name="name">payment_gateway_pr window</field>
+      <field name="name">Subscription lists</field>
       <field name="res_model">payment_gateway_pr.payment_gateway_pr</field>
       <field name="view_mode">tree,form</field>
     </record>

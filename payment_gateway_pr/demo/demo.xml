@@ -2,28 +2,15 @@
     <data>
 
           <record id="object0" model="payment_gateway_pr.payment_gateway_pr">
-            <field name="name">Object 0</field>
-            <field name="value">0</field>
+            <field name="name">Christian Gomes</field>
+            <field name="package">3 DAYS</field>
+            <field name="price">36</field>
           </record>
 
           <record id="object1" model="payment_gateway_pr.payment_gateway_pr">
-            <field name="name">Object 1</field>
-            <field name="value">10</field>
-          </record>
-
-          <record id="object2" model="payment_gateway_pr.payment_gateway_pr">
-            <field name="name">Object 2</field>
-            <field name="value">20</field>
-          </record>
-
-          <record id="object3" model="payment_gateway_pr.payment_gateway_pr">
-            <field name="name">Object 3</field>
-            <field name="value">30</field>
-          </record>
-
-          <record id="object4" model="payment_gateway_pr.payment_gateway_pr">
-            <field name="name">Object 4</field>
-            <field name="value">40</field>
+            <field name="name">Anon Anon</field>
+            <field name="package">7 DAYS</field>
+            <field name="price">36</field>
           </record>
 
     </data>
