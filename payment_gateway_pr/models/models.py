@@ -1,9 +1,8 @@
- # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
+from odoo import models, fields, api
 
- from odoo import models, fields, api
 
-
- class payment_gateway_pr(models.Model):
+class payment_gateway_pr(models.Model):
      _name = 'payment_gateway_pr.payment_gateway_pr'
      _description = 'payment_gateway_pr.payment_gateway_pr'
 
